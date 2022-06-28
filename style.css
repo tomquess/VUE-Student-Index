@@ -1,0 +1,51 @@
+@font-face {
+    font-family: logofont;
+    src: url(MILLESTONES.ttf);
+  }
+
+.navbar-top {
+    border-radius: 5px;
+}
+
+.logo-font {
+    font-family: logofont;
+}
+
+.container-settings {
+    background-color: #201c24;
+}
+
+.light-text {
+    color: aliceblue;
+}
+
+.data-settings {
+    color: aliceblue;
+}
+
+.navbar-container{
+    border-bottom: whitesmoke;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.router-container{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/liquid-cheese.svg);
+}
+
+.vuesvg{
+    max-width: 200px;
+    max-height: 200px;
+    margin: 50px;
+}
+
+.center{
+margin: auto;
+  width: 50%;
+  padding: 10px;
+  align-items: center;
+}
